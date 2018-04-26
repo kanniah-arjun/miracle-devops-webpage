@@ -16,6 +16,7 @@
     <style type="text/css" scoped>
     table.GeneratedTable {
     width:30%;
+    font-style:Calibri;
     background-color:#000000;
     border-collapse:collapse;border-width:2px;
     border-color:#0099FF;
