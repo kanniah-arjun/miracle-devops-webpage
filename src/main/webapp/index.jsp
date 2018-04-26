@@ -15,7 +15,7 @@
     <br>
     <style type="text/css" scoped>
     table.GeneratedTable {
-    width:50%;
+    width:30%;
     background-color:#000000;
     border-collapse:collapse;border-width:2px;
     border-color:#0099FF;
