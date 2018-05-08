@@ -36,7 +36,7 @@
     }
     </style>
 
-    <table class="GeneratedTable" align="center">
+    <table class="GeneratedTable" align="right">
         <thead>
             <tr>
                 <th>Function</th>
